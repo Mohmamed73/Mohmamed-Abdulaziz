@@ -1,16 +1,19 @@
 <h1 align="center">👋 Hi, I'm Mohamed Abdulaziz</h1>
-<h3 align="center">Software QA Engineer | Manual & API Testing Specialist</h3>
+<h3 align="center">
+  🧪 Software QA Engineer <br>
+  <span style="font-weight: normal;">Manual Testing &amp; API Testing &amp; Database Testing</span>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-QA-blue" />
   <img src="https://img.shields.io/badge/API%20Testing-Postman-orange" />
+  <img src="https://img.shields.io/badge/Database-SQL-informational" />
   <img src="https://img.shields.io/badge/Bug%20Tracking-Azure%20DevOps-0078D4" />
   <img src="https://img.shields.io/badge/Learning-Cypress-brightgreen" />
 </p>
 
 <p align="center">
-  📍 Giza, Egypt |
-  📧 <a href="mailto:abdelazizmohammed37@gmail.com">abdelazizmohammed37@gmail.com</a>
+  📍 Giza, Egypt
 </p>
 
 <hr>
@@ -18,60 +21,115 @@
 <h2>👨‍💻 About Me</h2>
 <p>
   I am a <b>Software QA Engineer</b> with hands-on experience in testing web and mobile applications.
-  I specialize in <b>Manual Testing</b> and <b>API Testing</b>, with a strong focus on business logic validation,
-  edge cases, and delivering high-quality user experiences.
+  I specialize in <b>Manual, API, and Database Testing</b>, with a strong focus on validating business logic,
+  ensuring data accuracy, and delivering high-quality user experiences.
 </p>
 
-<h2>🔍 Core Skills</h2>
+<p>
+  I enjoy analyzing systems, finding edge cases, and breaking features to make them more reliable 🚀
+</p>
+
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohmamed73&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohmamed73" />
+</p>
+
+<hr>
+
+<h2>🔍 Testing Expertise</h2>
+
+<h3>🧪 Manual Testing</h3>
 <ul>
-  <li>Manual Testing</li>
-  <li>API Testing with Postman</li>
-  <li>Bug Reporting & Tracking</li>
-  <li>Regression & Exploratory Testing</li>
-  <li>Business Logic Validation</li>
+  <li>Test Case Design &amp; Execution</li>
+  <li>Bug Reporting &amp; Tracking</li>
+  <li>Exploratory Testing</li>
+  <li>Regression Testing</li>
+  <li>End-to-End Testing</li>
 </ul>
 
-<h2>🛠️ Tools</h2>
+<h3>🔗 API Testing</h3>
 <ul>
-  <li>Postman</li>
-  <li>Azure DevOps</li>
-  <li>Jira</li>
-  <li>Zephyr Scale</li>
-  <li>JMeter (Basic)</li>
-  <li>Cypress (Learning)</li>
-  <li>Git & GitHub</li>
+  <li>REST API Testing using Postman</li>
+  <li>Validation, Error Handling &amp; Edge Cases</li>
+  <li>Testing full API lifecycle (CRUD operations)</li>
+  <li>Working with dynamic data &amp; environments</li>
 </ul>
 
-<h2>💼 Experience</h2>
-<p><b>Software Tester @ Gameball</b> <br> Jun 2025 – Present</p>
+<h3>🗄️ Database Testing</h3>
 <ul>
-  <li>Tested loyalty and gamification systems</li>
-  <li>Validated rewards and coupon business logic</li>
-  <li>Executed API test scenarios for coupon lifecycle</li>
-  <li>Performed manual testing for web and mobile applications</li>
-  <li>Worked closely with developers to verify fixes and releases</li>
+  <li>Writing SQL queries for data validation</li>
+  <li>Validating stored data against business requirements</li>
+  <li>Checking data integrity and consistency</li>
+  <li>Reviewing database structure and ER diagrams</li>
 </ul>
 
-<h2>📂 Project Highlight</h2>
-<p><b>Guru99 Banking System</b></p>
+<hr>
+
+<h2>🛠️ Tools &amp; Technologies</h2>
+<ul>
+  <li><b>Testing Tools:</b> Postman, JMeter (Basic)</li>
+  <li><b>Test Management:</b> Azure DevOps, Jira, Zephyr Scale</li>
+  <li><b>Database:</b> SQL, SQL Server</li>
+  <li><b>Automation (Learning):</b> Cypress (JavaScript - POM)</li>
+  <li><b>Programming:</b> JavaScript, Python (Basic)</li>
+  <li><b>Version Control:</b> Git &amp; GitHub</li>
+</ul>
+
+<h2>📂 Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Mohmamed73/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=project1" />
+  </a>
+  <a href="https://github.com/Mohmamed73/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=project2" />
+  </a>
+</p>
+
+<h3>🏦 Guru99 Banking System</h3>
 <ul>
   <li>Designed 150+ test cases</li>
-  <li>Covered major banking workflows</li>
-  <li>Reported critical bugs</li>
+  <li>Covered login, accounts, transfers, and security</li>
+  <li>Reported critical bugs and improved system quality</li>
 </ul>
+
+<hr>
 
 <h2>🚀 Currently Learning</h2>
 <ul>
   <li>UI Automation using Cypress</li>
   <li>API Automation</li>
-  <li>CI/CD basics</li>
+  <li>CI/CD concepts (Jenkins &amp; pipelines)</li>
 </ul>
 
-<h2>📫 Connect With Me</h2>
-<p>
-  💼 <a href="YOUR_LINKEDIN_LINK">LinkedIn</a><br>
-  🐙 <a href="https://github.com/yourusername">GitHub</a>
+<hr>
+
+<h2>📫 Contact Me</h2>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mohamed-abdulaziz-36b6a0215/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:abdelazizmohammed37@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
+  </a>
+    
+  <!-- WhatsApp -->
+  <a href="https://api.whatsapp.com/send?phone=201065077790" target="_blank">
+    <img src="https://img.icons8.com/color/96/whatsapp.png" width="50"/>
+  </a>
 </p>
 
+<hr>
+
 <h2>⚡ Mindset</h2>
-<p><i>"Quality is not just testing… it's understanding how things can fail."</i></p>
+<p>
+  <i>"Quality is not just testing… it's understanding how things can fail."</i>
+</p>
