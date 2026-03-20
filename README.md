@@ -82,8 +82,8 @@
 <h2>📂 Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/Mohmamed73/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=project1" />
+  <a href="https://github.com/mohamed-abdulaziz7/QA-Testing-Samples.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=QA-Testing-Samples" />
   </a>
   <a href="https://github.com/Mohmamed73/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohmamed73&repo=project2" />
