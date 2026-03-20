@@ -85,17 +85,10 @@
   <a href="https://github.com/mohamed-abdulaziz7/QA-Testing-Samples.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-abdulaziz7&repo=QA-Testing-Samples" />
   </a>
-  <a href="https://github.com/mohamed-abdulaziz7/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-abdulaziz7&repo=project2" />
+  <a href="https://github.com/mohamed-abdulaziz7/QA-Bug-Report-Samples">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-abdulaziz7&repo=QA-Bug-Report-Samples" />
   </a>
 </p>
-
-<h3>🏦 Guru99 Banking System</h3>
-<ul>
-  <li>Designed 150+ test cases</li>
-  <li>Covered login, accounts, transfers, and security</li>
-  <li>Reported critical bugs and improved system quality</li>
-</ul>
 
 <hr>
 
