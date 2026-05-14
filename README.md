@@ -56,7 +56,6 @@
   <li>REST API Testing using Postman</li>
   <li>Validation, Error Handling &amp; Edge Cases</li>
   <li>Testing full API lifecycle (CRUD operations)</li>
-  <li>Working with dynamic data &amp; environments</li>
   <li>JWT Authentication Testing using access &amp; refresh tokens</li>
   <li>Data-driven API testing with CSV files</li>
   <li>Automated cleanup handling for duplicate data</li>
